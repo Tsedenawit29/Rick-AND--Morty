@@ -116,10 +116,10 @@ import Footer from './Footer.vue';
 Swiper.use([Autoplay, Pagination]);
 
 const carouselImages = [
-  './src/images/image.jpg',
-  './src/images/rickandmorty2.jpg',
-  './src/images/rickandmorty3.jpg',
-  './src/images/rickandmorty4.jpg',
+  'https://images.app.goo.gl/WuVCsSmZg59ztfXRA',
+  'https://images.app.goo.gl/LkdvyZWL5fxba1Z68',
+  'https://images.app.goo.gl/hbGvhwqPVPF4g3aJ6',
+  'https://images.app.goo.gl/kMAKPMCD6gSuKf3QA',
 ];
 
 onMounted(() => {
