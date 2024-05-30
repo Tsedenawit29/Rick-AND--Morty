@@ -116,10 +116,10 @@ import Footer from './Footer.vue';
 Swiper.use([Autoplay, Pagination]);
 
 const carouselImages = [
-  'https://images.app.goo.gl/WuVCsSmZg59ztfXRA',
-  'https://images.app.goo.gl/LkdvyZWL5fxba1Z68',
-  'https://images.app.goo.gl/hbGvhwqPVPF4g3aJ6',
-  'https://images.app.goo.gl/kMAKPMCD6gSuKf3QA',
+  'https://c4.wallpaperflare.com/wallpaper/410/59/609/rick-and-morty-tv-rick-sanchez-morty-smith-wallpaper-preview.jpg',
+  'https://images.alphacoders.com/133/1330376.png',
+  'https://images7.alphacoders.com/133/1335145.jpg',
+  'https://www.ripplejunction.com/media/wysiwyg/970x600_RM_General.png',
 ];
 
 onMounted(() => {
