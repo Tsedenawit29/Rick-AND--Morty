@@ -117,7 +117,7 @@ Swiper.use([Autoplay, Pagination]);
 
 const carouselImages = [
   'https://c4.wallpaperflare.com/wallpaper/410/59/609/rick-and-morty-tv-rick-sanchez-morty-smith-wallpaper-preview.jpg',
-  'https://images.alphacoders.com/133/1330376.png',
+  'https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/imagery-from-rick-and-morty-1.jpg',
   'https://images7.alphacoders.com/133/1335145.jpg',
   'https://www.ripplejunction.com/media/wysiwyg/970x600_RM_General.png',
 ];
